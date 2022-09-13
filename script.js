@@ -1,11 +1,3 @@
-let fullName = "Ashwin Pokhare"
-let isRaining = true
-let temperature = 30
-let planet = "Earth"
-
-temperature = temperature+2
-
-console.log(temperature)
-console.log(fullName)
-console.log(fullName + planet)
-console.log(temperature)
+let celcius = 10;
+let fahrenheit = (celcius * 1.8) + 32;
+console.log(fahrenheit);
