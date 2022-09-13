@@ -1,3 +1,12 @@
-let celcius = 10;
-let fahrenheit = (celcius * 1.8) + 32;
-console.log(fahrenheit);
+let subscribe = false
+let loggedIn = true
+
+if (subscribe  === true){
+    console.log("Show the video")
+}
+else if(loggedIn === true){
+    console.log("tell user to upgrade their subscription")
+}
+else{
+    console.log("tell user to log into account")
+}
