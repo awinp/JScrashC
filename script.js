@@ -8,5 +8,5 @@ else if(loggedIn === true){
     console.log("tell user to upgrade their subscription")
 }
 else{
-    console.log("tell user to log into account")
+    console.log("tell user to log into accoun")
 }
