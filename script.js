@@ -11,16 +11,33 @@
 //     console.log("tell user to log into account")
 // }
 
-let cash = 50
-let price = 40
+// let cash = 20
+// let price = 40
 
-if (cash > price){
-    console.log("You paid extra - here is your change")
+// if (cash > price){
+//     console.log(`You paid extra here is $${cash-price} change`)
     
-}
-else if ( cash == price){
-    console.log("have a nice day")
-}
-else{
-    console.log( "give me more money")
-}
+// }
+// else if ( cash == price){
+//     console.log("have a nice day")
+// }
+// else{
+//     console.log( `give me $${price-cash} more money`)
+// }
+
+
+// let cash = 50
+// let price = 40
+// let isStoreOpen = false
+// if (cash >= price && isStoreOpen==true){
+//     console.log('print the receipt')
+//     // this will not print anything because && needs both true
+//     // but in this case isStoreOpen does not equal flase 
+// }
+
+// let cash = 50
+// let price = 40
+// let isStoreOpen = false
+// if (cash >= price || isStoreOpen){
+//     console.log('print the receipt')
+// }
