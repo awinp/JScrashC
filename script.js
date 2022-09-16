@@ -41,3 +41,17 @@
 // if (cash >= price || isStoreOpen){
 //     console.log('print the receipt')
 // }
+
+// let cash = 50
+// let price = 40
+// let isStoreOpen = false
+// if (""){
+//     console.log("truthy Value")
+
+// }
+// else{
+//     console.log("falsy Value")
+// }
+// // for if statement to run it needs truthy value 
+// //for else statemnt to runit needs falsy value
+
