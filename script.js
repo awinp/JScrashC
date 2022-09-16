@@ -55,3 +55,12 @@
 // // for if statement to run it needs truthy value 
 // //for else statemnt to runit needs falsy value
 
+// let hot = false
+// hot ? console.log("weather is hot ") : console.log("weather is cold")
+
+let cash = 50
+let price = 40
+let isStoreOpen = true
+
+let str = cash >= price && isStoreOpen ? 'give receipt' : 'do not give receipt'
+console.log(str)
